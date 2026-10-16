@@ -12,13 +12,23 @@ Control your desktop experience through customizable profiles — without manual
 
 <br>
 
-[**⬇ Download Envia**](https://github.com/Hajime-GG/Envia/releases/latest) · [Report an Issue](https://github.com/Hajime-GG/Envia/issues) · [GitHub Repository](https://github.com/Hajime-GG/Envia)
+<a href="https://github.com/Hajime-GG/Envia/releases/latest"><strong>⬇ Download Envia</strong></a>
+&nbsp; · &nbsp;
+<a href="https://github.com/Hajime-GG/Envia/issues">Report an Issue</a>
+&nbsp; · &nbsp;
+<a href="https://github.com/Hajime-GG/Envia">GitHub Repository</a>
 
-<br>
+<br><br>
 
-![Platform](https://img.shields.io/badge/Platform-Windows-0078D4?style=flat-square&logo=windows)
-![Architecture](https://img.shields.io/badge/Architecture-x64-555555?style=flat-square)
-![License](https://img.shields.io/badge/License-Proprietary-8B5CF6?style=flat-square)
+<a href="https://github.com/Hajime-GG/Envia/releases/latest">
+<img src="https://img.shields.io/badge/Download-GitHub%20Releases-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="Download from GitHub Releases">
+</a>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Platform-Windows-0078D4?style=flat-square&logo=windows" alt="Platform: Windows">
+<img src="https://img.shields.io/badge/Architecture-x64-555555?style=flat-square" alt="Architecture: x64">
+<img src="https://img.shields.io/badge/License-Proprietary-8B5CF6?style=flat-square" alt="Proprietary license">
 
 </div>
 
@@ -51,7 +61,7 @@ Create dedicated environments for Gaming, Studying, Movies, or your own custom a
 
 ### ⚡ QuickSwitch
 
-Use a configurable keyboard shortcut to switch environments quickly, making it easier to move between activities without navigating through settings.
+Use a configurable keyboard shortcut to switch environments quickly, without navigating through settings every time.
 
 </td>
 </tr>
@@ -92,12 +102,12 @@ Associate Windows power-plan preferences with your environments to help match yo
 
 ### 🚀 Startup & System Tray
 
-Configure startup behavior, start minimized, minimize on close, and choose whether the Default environment should be applied at startup.
+Configure startup behavior, minimize-to-tray preferences, and whether the Default environment should be applied at startup.
 
 </td>
 <td width="50%" valign="top">
 
-### 🎨 Designed for Everyday Use
+### 🎨 Built for Everyday Use
 
 Keep environment switching accessible through the application and system tray, with a streamlined workflow built around your preferences.
 
@@ -124,14 +134,14 @@ Envia organizes your preferred Windows settings into reusable environments.
                 │
                 ▼
        ┌──────────────────┐
-       │ Environment     │
-       │ Configuration   │
+       │   Environment    │
+       │  Configuration   │
        └────────┬─────────┘
                 │
                 ▼
        ┌──────────────────┐
-       │ Apply Supported │
-       │ Windows Settings│
+       │ Apply Supported  │
+       │ Windows Settings │
        └────────┬─────────┘
                 │
                 ▼
@@ -158,11 +168,19 @@ These are examples of how environments can be organized, not fixed presets that 
 
 ## 📦 Installation
 
-### Download
+### Download Envia
 
-Get the latest available release from GitHub:
+<div align="center">
 
-**[Download Envia for Windows →](https://github.com/Hajime-GG/Envia/releases/latest)**
+<a href="https://github.com/Hajime-GG/Envia/releases/latest">
+<img src="https://img.shields.io/badge/⬇%20Download%20for%20Windows-Latest%20Release-8B5CF6?style=for-the-badge" alt="Download Envia for Windows">
+</a>
+
+<br>
+
+Get the latest available installer from GitHub Releases.
+
+</div>
 
 ### Install and get started
 
@@ -174,6 +192,26 @@ Get the latest available release from GitHub:
 6. Set up QuickSwitch if you want to switch environments using a keyboard shortcut.
 
 **Note:** Windows settings such as brightness, refresh rate, Night Light, and power plans can depend on hardware, drivers, Windows version, and system configuration. Not every setting is available on every PC.
+
+---
+
+## 🛍 Microsoft Store
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Microsoft%20Store-Coming%20Soon-0078D4?style=for-the-badge&logo=microsoftstore&logoColor=white" alt="Microsoft Store: Coming Soon">
+
+### Coming Soon
+
+A Microsoft Store release is planned as an additional distribution option.
+
+Until an official Store listing is published, download Envia through GitHub Releases.
+
+<a href="https://github.com/Hajime-GG/Envia/releases/latest">
+<strong>Download Envia from GitHub →</strong>
+</a>
+
+</div>
 
 ---
 
@@ -203,8 +241,6 @@ For details about data handling and privacy, read [`PRIVACY.md`](PRIVACY.md).
 **Envia is proprietary software and is not open source.**
 
 The Envia application, source code, branding, artwork, and other proprietary components are protected by the applicable license terms. Public availability of this repository does not grant permission to redistribute or modify proprietary components except as expressly permitted.
-
-Review the following documents before using or redistributing the software:
 
 | Document | Purpose |
 |---|---|
