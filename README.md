@@ -1,6 +1,6 @@
  <div align="center">
 
-<img src="assets/envia.png" width="150" alt="Envia logo">
+<img src="assets/Envia.png" width="150" alt="Envia logo">
 
 # Envia
 
