@@ -12,8 +12,6 @@ Control your desktop experience through customizable profiles — without manual
 
 <br>
 
-<a href="https://github.com/Hajime-GG/Envia/releases/latest"><strong>⬇ Download Envia</strong></a>
-&nbsp; · &nbsp;
 <a href="https://github.com/Hajime-GG/Envia/issues">Report an Issue</a>
 &nbsp; · &nbsp;
 <a href="https://github.com/Hajime-GG/Envia">GitHub Repository</a>
@@ -22,6 +20,10 @@ Control your desktop experience through customizable profiles — without manual
 
 <a href="https://github.com/Hajime-GG/Envia/releases/latest">
 <img src="https://img.shields.io/badge/Download-GitHub%20Releases-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="Download from GitHub Releases">
+</a>
+<br><br>
+<a href="https://apps.microsoft.com/detail/9N99R6LJHP63?hl=en-us&gl=IN&ocid=pdpshare" target="_self" >
+	<img src="https://get.microsoft.com/images/en-us%20dark.svg" width="200"/>
 </a>
 
 <br><br>
