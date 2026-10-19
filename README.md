@@ -199,16 +199,22 @@ Get the latest available installer from GitHub Releases.
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Microsoft%20Store-Coming%20Soon-0078D4?style=for-the-badge&logo=microsoftstore&logoColor=white" alt="Microsoft Store: Coming Soon">
+<a href="https://apps.microsoft.com/detail/9N99R6LJHP63?hl=en-us&gl=IN&ocid=pdpshare">
+<img src="https://img.shields.io/badge/Get%20it%20on-Microsoft%20Store-0078D4?style=for-the-badge&logo=microsoftstore&logoColor=white" alt="Get Envia on Microsoft Store">
+</a>
 
-### Coming Soon
+Now Available
 
-A Microsoft Store release is planned as an additional distribution option.
+Envia is now available on the Microsoft Store! Get the app through Microsoft's official storefront for a convenient installation experience.
 
-Until an official Store listing is published, download Envia through GitHub Releases.
+<a href="https://apps.microsoft.com/detail/9N99R6LJHP63?hl=en-us&gl=IN&ocid=pdpshare">
+<strong>Get Envia on the Microsoft Store →</strong>
+</a>
+
+Prefer downloading directly? You can still get the latest installer from GitHub Releases.
 
 <a href="https://github.com/Hajime-GG/Envia/releases/latest">
-<strong>Download Envia from GitHub →</strong>
+<strong>Download from GitHub Releases →</strong>
 </a>
 
 </div>
