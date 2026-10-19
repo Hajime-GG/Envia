@@ -22,10 +22,11 @@ Control your desktop experience through customizable profiles — without manual
 <img src="https://img.shields.io/badge/Download-GitHub%20Releases-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="Download from GitHub Releases">
 </a>
 <br><br>
+<!--
 <a href="https://apps.microsoft.com/detail/9N99R6LJHP63?hl=en-us&gl=IN&ocid=pdpshare" target="_self" >
 	<img src="https://get.microsoft.com/images/en-us%20dark.svg" width="200"/>
 </a>
-
+-->
 <br><br>
 
 <img src="https://img.shields.io/badge/Platform-Windows-0078D4?style=flat-square&logo=windows" alt="Platform: Windows">
@@ -200,15 +201,15 @@ Get the latest available installer from GitHub Releases.
 ## 🛍 Microsoft Store
 
 <div align="center">
-
+<!--
 <a href="https://apps.microsoft.com/detail/9N99R6LJHP63?hl=en-us&gl=IN&ocid=pdpshare">
 <img src="https://img.shields.io/badge/Get%20it%20on-Microsoft%20Store-0078D4?style=for-the-badge&logo=microsoftstore&logoColor=white" alt="Get Envia on Microsoft Store">
 </a>
-
+<!--
 Now Available
-
+<!--
 Envia is now available on the Microsoft Store! Get the app through Microsoft's official storefront for a convenient installation experience.
-
+<!--
 <a href="https://apps.microsoft.com/detail/9N99R6LJHP63?hl=en-us&gl=IN&ocid=pdpshare">
 <strong>Get Envia on the Microsoft Store →</strong>
 </a>
